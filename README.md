@@ -5,6 +5,7 @@ Google Apps Script is a versatile tool for automating tasks within Google Worksp
 ## Step 1: Open the Google Apps Script Editor
 
 🔹Navigate to Google Apps Script.
+
 🔹Create a new script project and give it a descriptive name, like "Drive to Excel Update."
 
 ## Step 2: Access the File in Google Drive
@@ -68,13 +69,16 @@ Integrate the file-reading and spreadsheet-updating functions into a single work
 
 ### An example of my Google Apps Script
 
-![image](https://github.com/user-attachments/assets/bedd3ca3-548f-43de-a21f-94b89c4c8fd2
+![image](https://github.com/user-attachments/assets/bedd3ca3-548f-43de-a21f-94b89c4c8fd2)
 
 ## 💡Best Practices
 
 🔸Error Handling: Wrap your functions in try-catch blocks to handle errors gracefully.
+
 🔸File Backup: Keep a backup of the original Excel file in case of accidental overwrites.
-🔸Data Validation: Add checks to validate the data format before updating the spreadsheet.
+
+🔸Data Validation: Add checks to validate the data format before updating the spreadsheet
+
 🔸Logging: Use Logger.log() to monitor and debug your script execution.
 
 By following these steps, you can easily automate the process of updating an Excel spreadsheet with data from Google Drive, streamlining your workflows and saving time. Happy scripting!
