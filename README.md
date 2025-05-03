@@ -83,3 +83,13 @@ Integrate the file-reading and spreadsheet-updating functions into a single work
 
 By following these steps, you can easily automate the process of updating an Excel spreadsheet with data from Google Drive, streamlining your workflows and saving time. Happy scripting!
 
+  ## Author
+**Bárbara Ángeles Ortiz**
+
+ <img src="https://avatars.githubusercontent.com/u/105976212?v=4" width=115><br><sub></sub>
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
+
+
